@@ -9,4 +9,4 @@ end
 
 sausages = Dog.new("Sausages", "Daschund")
 sausages.name
-sausages.
+sausages.breed
