@@ -6,3 +6,7 @@ class Dog
   end  
   
 end
+
+sausages = Dog.new("Sausages", "Daschund")
+sausages.name
+sausages.
