@@ -8,5 +8,5 @@ class Dog
 end
 
 sausages = Dog.new("Sausages", "Daschund")
-puts sausages.name
-puts sausages.breed
+# puts sausages.name
+# puts sausages.breed
